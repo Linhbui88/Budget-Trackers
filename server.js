@@ -20,7 +20,8 @@ mongoose.connect("mongodb://localhost/budget", {
   useFindAndModify: false,
   useUnifiedTopology: true,
   useCreateIndex:true,
-});
+},
+).catch(error => console.log(error));
 
 // routes
 app.use(require("./routes/api.js"));
