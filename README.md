@@ -40,7 +40,7 @@ This application will allow users to create new transactions whether it's a depo
 
 
 ## Deployed application link
-Live Deployed Allication: [View Application](https://nameless-harbor-72570.herokuapp.com/)<br/>
+Live Deployed Allication: [View Application](https://linhbui88.github.io/Budget-Trackers/)<br/>
 
 
 ## Languages
